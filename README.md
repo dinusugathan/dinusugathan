@@ -79,46 +79,6 @@ mantra: "Automate everything that repeats. Ship everything that matters."
 
 <br/>
 
-## 🌟 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Project Name One</h3>
-      <p>An AI SaaS product — one line on what it does and who it's for.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <br/><a href="#">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 Project Name Two</h3>
-      <p>A data cleaning / model training pipeline — what messy input it fixes.</p>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <br/><a href="#">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Project Name Three</h3>
-      <p>An automation tool — what workflow it replaces or speeds up.</p>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <br/><a href="#">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Project Name Four</h3>
-      <p>A Java-based service or backend — what it powers.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <br/><a href="#">🔗 View Repo</a>
-    </td>
-  </tr>
-</table>
-
-> ✏️ Swap these four cards for your real repos, or pin them directly on your profile page from GitHub's "Customize your pins" feature.
-
-<br/>
 
 ## 📊 GitHub Stats
 
