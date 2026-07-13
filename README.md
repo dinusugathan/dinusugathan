@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dinu%20Sugathan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20%7C%20AI%20SaaS%20%7C%20Data%20%26%20Model%20Training&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dinu%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Automation%20Engineer&descAlignY=55&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Building+AI+SaaS+products+that+ship;Training+models%2C+cleaning+messy+data;Python+%7C+Java+%7C+JavaScript;Automation+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Deploying+fine-tuned+LLMs+%26+RAG+systems;Automating+complex+business+workflows;Turning+AI+potential+into+measurable+ROI;Python+%7C+Java+%7C+JavaScript+%7C+Go" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🤖_AI_%26_Automation-F72585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_SaaS_Builder-4CC9F0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧹_Data_Cleaning-FFB703?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎯_Model_Training-06D6A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_LLM_%26_RAG_Systems-F72585?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_Workflow_Automation-4CC9F0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛡️_AI_Governance-FFB703?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Agentic_Systems-06D6A0?style=for-the-badge" />
 
 </div>
 
@@ -17,68 +17,157 @@
 
 ## 🧠 About Me
 
-```yaml
-role: AI Automation Engineer
-focus:
-  - Designing & shipping AI-powered SaaS products
-  - Building internal + client-facing automation tools
-  - Cleaning, structuring & preparing data for ML pipelines
-  - Training and fine-tuning models for real-world use
-languages: [Python, Java, JavaScript]
-mantra: "Automate everything that repeats. Ship everything that matters."
-```
+Delivering enterprise-scale AI transformation through a dual focus on Strategic Governance and Technical Execution. Expert in deploying fine-tuned LLMs, architecting RAG systems for private data, and automating complex business workflows. I turn AI potential into measurable ROI by building secure, autonomous, and integrated systems that modernize legacy operations.
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
-<div align="center">
+**AI Orchestration & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Haystack-09A3D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-6D00CC?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_Claude_SDK-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Gemini_(Vertex_AI)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3_(Ollama%2FvLLM)-0467DF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge" />
 
-**Languages**
+> RAG Architecture: Advanced Retrieval-Augmented Generation, Semantic Search, Hybrid Search, Reranking (Cohere)
+
+<br/>
+
+**Workflow Automation & Operations**
+<br/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack%2FTeams_Bots-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
+
+> Process Optimization: BPMN, Event-Driven Architectures, ETL Pipeline Design
+
+<br/>
+
+**Data & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Weaviate-00C298?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector_(PostgreSQL)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/AWS_(Bedrock%2C_Lambda)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%2FNoSQL-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/RESTful_APIs-FF6F00?style=for-the-badge" />
+
+<br/>
+
+**AI Governance & Observability**
+<br/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arize_Phoenix-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+<img src="https://img.shields.io/badge/RAGAS-06D6A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP_Top_10_for_LLMs-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC2%2FGDPR_AI_Compliance-4CC9F0?style=for-the-badge" />
+
+> Prompt Engineering: Chain-of-Thought (CoT), Few-Shot Prompting, ReAct Logic, Prompt Versioning/A-B Testing
+
+<br/>
+
+**Coding**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br/><br/>
-
-**AI / ML / Data**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-<br/><br/>
-
-**Automation & Tools**
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<br/><br/>
-
-**SaaS & Infra**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-
-</div>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <br/>
 
+## 💼 Professional Experience
+
+<table width="100%">
+<tr>
+<td>
+
+**Benzy Infotech** — *AI/ML Automation Engineer*
+<br/><sub>July 2025 – Present</sub>
+
+- Designed and deployed production-grade RAG pipelines using Pinecone and LangChain for secure, real-time querying of proprietary corporate data
+- Orchestrated end-to-end automation of business operations by integrating LLMs with Salesforce, Slack, and Microsoft 365
+- Fine-tuned and deployed open-source and proprietary models (GPT-4, Llama 3) via API and local hosting, optimizing for latency and cost-efficiency
+- Developed advanced prompt architectures (Chain-of-Thought, ReAct) to improve model accuracy and eliminate hallucinations in client-facing applications
+
+</td>
+</tr>
+<tr>
+<td>
+
+**RP2**
+<br/><sub>April 2025 – July 2025</sub>
+
+- Developed autonomous agent systems using LangGraph and CrewAI to automate complex, multi-step business logic and decision-making processes
+- Managed the full lifecycle of LLM deployment, including local hosting environments and cloud-based scaling for high-concurrency enterprise needs
+- Engineered data ingestion pipelines for AI models, ensuring high-quality data synthesis and secure handling of PII within private AI environments
+- Acted as the primary technical consultant for executive stakeholders, translating complex AI capabilities into actionable business strategies and governance policies
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Outlier**
+<br/><sub>May 2024 – December 2025</sub>
+
+- Training subject-specific models
+- Evaluation and approval of models
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Education
+
+| Degree | Institution | Years |
+|---|---|---|
+| Professional Certificate in Data Science and Artificial Intelligence | IIM Kozhikode | 2024 – 2025 |
+| MSc Physics | IIT Palakkad | 2019 – 2021 |
+| BSc Physics | Calicut University | 2014 – 2017 |
+
+<br/>
+
+## 📜 Certifications
+
+- IBM Machine Learning with Python
+- IBM Introduction to Deep Learning & Neural Networks with Keras
+- IBM Deep Learning with Keras and TensorFlow
+- IBM Introduction to Neural Networks and PyTorch
+- Meta Introduction to Databases
+
+<br/>
+
+## 🌐 Languages
+
+Malayalam (Mother tongue) · English (C1) · Hindi (B2) · German (A1) · Tamil (A1)
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -104,10 +193,8 @@ mantra: "Automate everything that repeats. Ship everything that matters."
 ## 📫 Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dinuts"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dinuinbi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
